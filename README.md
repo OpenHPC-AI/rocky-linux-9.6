@@ -20,5 +20,5 @@ xz -d Rocky-9-Container-Base-9.6-20250531.0.x86_64.tar.xz
 Step3: Create docker image
 
 ```bash
-docker import Rocky-9-Container-Base-9.6-20250531.0.x86_64.tar rocky9:9.6
+docker import Rocky-9-Container-Base-9.6-20250531.0.x86_64.tar rockylinux9:9.6
 ```
